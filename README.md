@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063"/>&nbsp;
   <img src="https://img.shields.io/badge/-UI/UX%20Design-0D1117?style=for-the-badge&logo=figma&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/-Web%20Design-0D1117?style=for-the-badge&logo=google-chrome&logoColor=ffffff"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Full%20Stack-0D1117?style=for-the-badge&logo=dev.to&logoColor=ffffff"/>&nbsp;
 </div>
 
 ---
