@@ -6,6 +6,11 @@
 
 </div>
 
+<!-- Hello Kitty animada rosa -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZyempndjh5Nmo4MWhmbXVndm9zZjkwMjI4MHp3amFqbzFua2t3MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="180" alt="Hello Kitty animada rosa"/>
+</div>
+
 ---
 
 <p align="center">
@@ -32,6 +37,7 @@
 </div>
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
