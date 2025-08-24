@@ -13,9 +13,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marisouza31&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marisouza31&show_icons=true&count_private=true&hide_border=true&title_color=fff0f6&icon_color=fff0f6&text_color=fff0f6&bg_color=ff69b4" alt="Mariana github stats" /> 
