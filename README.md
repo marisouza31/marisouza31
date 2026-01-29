@@ -11,13 +11,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZyempndjh5Nmo4MWhmbXVndm9zZjkwMjI4MHp3amFqbzFua2t3MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="180" alt="Hello Kitty animada rosa"/>
 </div>
 
----
+<!-- Linha rosa animada -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
+</div>
+
+<h3 align="center">💖 Meus dados no GitHub 💖</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Repositórios-📁-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-🚀-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Estudos-Diários-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositórios-📁-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Commits-🚀-ff69b4?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Estudos-Diários-ff69b4?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </div>
+
 
 <br>
 
@@ -25,8 +31,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marisouza31&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true"/>
 </div>
 
-
----
+<!-- Linha rosa animada -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20"/>
+</div>
 
 ### 🧠 Principais Habilidades:
 
@@ -39,7 +47,5 @@
   <img src="https://img.shields.io/badge/-UI/UX%20Design-0D1117?style=for-the-badge&logo=figma&logoColor=ff69b4"/>&nbsp;
   <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ff69b4"/>&nbsp;
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
