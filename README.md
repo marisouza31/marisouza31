@@ -13,12 +13,18 @@
 
 ---
 
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marisouza31&show_icons=true&count_private=true&hide_border=true&title_color=fff0f6&icon_color=fff0f6&text_color=fff0f6&bg_color=ff69b4" alt="Mariana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisouza31&layout=compact&hide_border=true&title_color=fff0f6&text_color=fff0f6&bg_color=ff69b4" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Repositórios-📁-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-🚀-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Estudos-Diários-ff69b4?style=for-the-badge"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marisouza31&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true"/>
+</div>
+
 
 ---
 
@@ -35,9 +41,5 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
