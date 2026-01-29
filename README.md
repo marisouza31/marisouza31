@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=ff69b4"/>&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=ff69b4"/>&nbsp;
   <img src="https://img.shields.io/badge/-UI/UX%20Design-0D1117?style=for-the-badge&logo=figma&logoColor=ff69b4"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=google-chrome&logoColor=ff69b4"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ff69b4"/>&nbsp;
 </div>
 
 ---
